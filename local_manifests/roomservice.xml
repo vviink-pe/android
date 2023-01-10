@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-    <project name="vviink-pe/android_device_xiaomi_daisy" path="device/xiaomi/daisy" remote="github" revision="lineage-17.1"/>
-</manifest>

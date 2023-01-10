@@ -181,4 +181,7 @@
   <!-- Tools -->
   <project path="lineage/contributors-cloud-generator" name="LineageOS/contributors-cloud-generator" groups="tools" revision="master" />
   <project path="lineage/scripts" name="LineageOS/scripts" groups="tools" revision="master" />
+
+  <!-- Devices -->
+  <project name="vviink-pe/android_device_xiaomi_daisy" path="device/xiaomi/daisy" remote="github" />
 </manifest>
